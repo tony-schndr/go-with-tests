@@ -1,4 +1,4 @@
-package perimeter
+package shapes
 
 import (
 	"testing"
